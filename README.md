@@ -18,7 +18,7 @@ Stay with Us:
 
 
 <p align="center"> 
-<img src="https://cdn.discordapp.com/attachments/1302688366218711052/1302706490712527029/image.png?width=1330&height=662"></img>
+<img src="https://github.com/andirash/BakienNuker/blob/main/image.png"></img>
 </p>
 
 ### Settings:
