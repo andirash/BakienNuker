@@ -15,13 +15,11 @@ Stay with Us:
 </p>
  
 ---
-![image](https://user-images.githubusercontent.com/94531396/171850124-c9800302-5bbc-4032-9509-a51e56228374.png)
-![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
 
 
 <p align="center"> 
   <kbd>
-<img src="https://media.discordapp.net/attachments/1105062508781387786/1113971492435267614/image.png?width=1330&height=662"></img>
+<img src="https://cdn.discordapp.com/attachments/1302688366218711052/1302706490712527029/image.png?width=1330&height=662"></img>
   </kbd>
 </p>
 
